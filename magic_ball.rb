@@ -41,7 +41,9 @@ hello = [
 puts hello.sample
 
 #Выжидание момента
-sleep(rand(0.9..2.8))
+time = rand(0.9..2.8)
+sleep(time)
+
 
 #Вывод одного из ответов
 puts answers.sample
