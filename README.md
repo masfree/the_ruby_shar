@@ -1,5 +1,5 @@
 # Magic 8 ball
-![Магический шар 8](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Magic_eight_ball.png/600px-Magic_eight_ball.png)
+![Магический шар 8](https://i.imgflip.com/1c8tfl.jpg)
 
 Magic 8 ball (рус. магический шар 8); также mystic 8 ball, шар судьбы, шар вопросов и ответов, шар предсказаний — игрушка, шуточный способ предсказывать будущее.  [Более подробно](https://ru.wikipedia.org/wiki/Magic_8_ball "Ссылка на википедию")
 
